@@ -9,4 +9,6 @@
   This is a simple web project, deployment can be on any web server or even local file system.
   ## Copyright 
   2021 git.training
+  ## How to contribute
+  Please fork this repository and then issue pull request
   How to contribute
